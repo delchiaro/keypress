@@ -109,10 +109,10 @@ void printHelp() {
 //	cout << "ascii      [INT]    -  a [INT]     - NOT WORKING - INT will be processed as a number and converted to a key with the ASCII table"<< endl;
 	cout << "list-specials       -  ls          - Show the list of special characters"<< endl<< endl;
 
-	cout << "KEYs:" << endl;
-	cout << " - Normal character (ascii - no unicode support)" << endl;
-	cout << " - Character ascii code (if option [ascii] is specified)" << endl;
-	cout << " - Special windows character from the list (use 'keypress ls' to show the list)" << endl;
+//	cout << "KEYs:" << endl;
+//	cout << " - Normal character (ascii - no unicode support)" << endl;
+//	cout << " - Character ascii code (if option [ascii] is specified)" << endl;
+//	cout << " - Special windows character from the list (use 'keypress ls' to show the list)" << endl;
 }
 
 // For special keys I used this regexp (with sublime text3) in this web page:
