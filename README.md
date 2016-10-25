@@ -17,7 +17,11 @@ list-specials       -  ls          - Show the list of special characters<br />
 <br />
 <br />
 example:
-- keypress w WK_ESCAPE t 100
-- keypress w WK_VOLUME_MUTE
+- keypress w VK_ESCAPE t 100
+- keypress w VK_VOLUME_MUTE
+- keypress w VK_BROWSE_BACK
+- keypress w VK_MEDIA_NEXT_TRACK
+- keypress w VK_PLAY
+- keypress w VK_ZOOM
 
 
