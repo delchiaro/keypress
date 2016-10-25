@@ -1,5 +1,8 @@
 # keypress
-With this command line application you can simulate an input from your keyboard in windows environments (win 2000 and later). You can simulate the pressure of every character in the keyboard, and probably also the special vendor keys. (https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx)
+With this command line application you can simulate an input from your keyboard in windows environments (win 2000 and later).<br />
+You can simulate the pressure of every character in the keyboard, and probably also the special vendor keys.
+<br/>
+For characters list, execute 'keypress ls' or seee this page : https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx)
 <br />
 <br />
 Usage: keypress [OPTIONS]<br />
