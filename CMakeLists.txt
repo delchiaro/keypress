@@ -21,5 +21,5 @@ file(COPY ${MY_DLLS}  DESTINATION myDestination)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES main.cpp aaa.h)
+set(SOURCE_FILES main.cpp )
 add_executable(keypress ${SOURCE_FILES})
